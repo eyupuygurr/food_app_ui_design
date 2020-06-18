@@ -1,16 +1,9 @@
-# fire_proje
+# Food App Uİ DESİGN
 
-A new Flutter project.
+This is my first project with Flutter. I used layout in this project. 
+Row, Column, Center and more...
 
-## Getting Started
+## Project Link
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Only homepage design:
+https://www.behance.net/gallery/81858385/Foobybite-Free-UI-Kit-for-Adobe-XD
