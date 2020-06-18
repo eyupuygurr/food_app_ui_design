@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551482320871",
+    "firebase_url": "https://firetop-ea902.firebaseio.com",
+    "project_id": "firetop-ea902",
+    "storage_bucket": "firetop-ea902.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551482320871:android:9d02c14fbffc354371ff42",
+        "android_client_info": {
+          "package_name": "com.firee.fire_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551482320871-nj9j0c9pfs4cn7iuk7l09c5oq8fqnfdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcis2uYls3Zs_1s7nNflIMHwIoWgc0BHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551482320871-nj9j0c9pfs4cn7iuk7l09c5oq8fqnfdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
